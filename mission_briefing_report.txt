@@ -1,0 +1,11 @@
+
+    =======================================
+              PHILIPPINE NAVY REPORT
+    =======================================
+    Officer Name   : Sivs
+    Rank           : ENS
+    Mission Code   : OP123
+    Operation Zone : America
+    =======================================
+    Mission briefing completed.
+    
