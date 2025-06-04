@@ -1,0 +1,7 @@
+username,password,role,assigned_db
+admin123,adminpass,Admin,all
+sup1,superpass,Supervisor,all
+user1,userpass,Standard,armament
+user2,userpass2,Standard,personnel
+user3,userpass3,Standard,operations
+sivs,sivs123,Admin,all
